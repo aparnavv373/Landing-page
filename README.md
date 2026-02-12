@@ -19,7 +19,7 @@ This is my personal landing page built using **HTML, CSS, and responsive design*
 ![Landing Page Screenshot](Screenshot1.png)
 ![Landing Page Screenshot](Screenshot2.png)
 
-![Live Demo](https://aparnavv373.github.io/Landing-page/)
+[Live Demo](https://aparnavv373.github.io/Landing-page/)
 
 
 
